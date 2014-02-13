@@ -1,0 +1,21 @@
+{
+    "name": "cubet/ebay",
+    "description": "Ebay package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul PR",
+            "email": "rahul.pr@cubettech.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cubet\\Ebay": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
