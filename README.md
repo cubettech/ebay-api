@@ -1,6 +1,6 @@
 # Ebay Package 
 
-    With this package we can retrieve seller list and ebay listing details of a logged in user.
+    Package to retrieve seller list and ebay listing details of a logged in user.
 
 
 ## Requirements
